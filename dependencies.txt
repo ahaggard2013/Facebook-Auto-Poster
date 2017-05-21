@@ -1,0 +1,5 @@
+Dependencies:
+
+pip install schedule
+pip install praw
+pip install facebook-sdk
